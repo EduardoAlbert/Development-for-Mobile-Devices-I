@@ -43,3 +43,5 @@ By the end of this course, you will:
 
 2. **Explore the Course Content**: Begin with the course materials and start learning!
 
+## Contributions
+We encourage contributions and collaborations from students and instructors. If you have suggestions, bug reports, or want to contribute to the course content, feel free to open issues or submit pull requests.
