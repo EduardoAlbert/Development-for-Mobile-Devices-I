@@ -37,7 +37,7 @@ By the end of this course, you will:
 1. **Clone this Repository**: You can access course materials and assignments by cloning this repository.
 
    ```shell
-   git clone [repository-url]
+   git clone https://github.com/EduardoAlbert/development-for-mobile-devices-I.git
 
 1. **Install Required Software**: Follow the instructions in the course materials to set up the necessary development environment.
 
